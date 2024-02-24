@@ -61,3 +61,15 @@ h1, h2, h3, p {
   background-color: #1c9e78; 
   color: #ffffff;
 }
+
+.footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin: 0 0 20px;
+}
+
+.footer p {
+  margin-bottom: 24px;
+}
