@@ -37,8 +37,10 @@ function initMap() {
         ['Önundarfjordur', 66.09063102736798, -23.613711172987625],
         ['Bíldudalskirkja Church', 65.68613740332154, -23.597642752867237],
         ['Balck Church', 64.82244990090761, -23.3846794518715],
+        ['Hvítárvatn', 64.5999698262744, -19.834806210819462]
     ];
 
+    
                         
     // Info
     var infoWindowContent = [
@@ -116,6 +118,9 @@ function initMap() {
         '</div>' ],
         ['<div class="info_content">' +
         '<h2>Black church</h2>' + '<p>Tiene una linda playa.</p>' +
+        '</div>' ],
+        ['<div class="info_content">' +
+        '<h2>Lago de glaciar</h2>' + '<p>El Hvítárvatn es un lago glaciar en las Tierras Altas de Islandia. Es la fuente del río glaciar Hvitá. El lago se encuentra a unos 45 km al noreste de la cascada de Gullfoss. Posee una superficie de 30 km² y profundidad máxima es 84 m. </p>' +
         '</div>' ]
 
     ];
